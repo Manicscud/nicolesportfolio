@@ -1,0 +1,35 @@
+
+.protest-riot-regular {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 500%;
+    text-align: center;
+    color: #AE445A;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+body { background-color: #F39F5A; }
+
+header{
+    background-color: #F39F5A;
+    margin: 0%;
+    width: 100%;
+    height: 25%;
+    padding: 2%;
+    
+
+}
+
+.photos{
+    
+    width: 150px;
+    height: 150px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border:  ridge #24188d;
+}
